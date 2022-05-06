@@ -1,0 +1,8 @@
+version: "3"
+services:
+  BankSpringBoot:
+  ##  container_name: spring_app
+    image: bankspringboot
+    build: .
+    ports:
+      - "8000-8099:8080"
