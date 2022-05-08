@@ -1,4 +1,4 @@
-package model;
+package com.example.bankspringboot.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
